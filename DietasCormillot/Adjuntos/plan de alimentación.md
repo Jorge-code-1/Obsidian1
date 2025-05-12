@@ -1,0 +1,3 @@
+- pago 6 cuotas de $ 14999 con la tarjeta de crédito de visa 
+- la primera cuota la pago con el mes de mayo de 2025
+- y termina en octubre 

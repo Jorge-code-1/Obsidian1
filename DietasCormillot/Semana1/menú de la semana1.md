@@ -1,0 +1,3 @@
+	- Lunes : bastante bien con el plan aunque no al pie de la letra 
+	- Martes: respete un poco mas el plan 
+	- Miercoles : 

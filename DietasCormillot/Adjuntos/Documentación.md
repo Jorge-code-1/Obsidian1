@@ -1,0 +1,9 @@
+- El dia 4/5/25 me anote para el [[plan de alimentación]]
+- Me mandaron el [[menú de la semana1]]
+- empecé con 100 kg y [[medidas y peso]] de barriga de 112.5 cm
+- el dia lunes arranque con el plan 
+- el dia martes ya empecé con el plan bastante cerca de lo que se proponía 
+	- Por la noche vamos al cumple de **Mia** así que no creo que pueda seguir el plan 
+- Todavía al dia martes no pude hacer los ejercicios }
+- me tengo que organizar bien con las compras 
+- con la ayuda de chtgtp , me hace un resumen del pdf del menú, y lo separa por la lista de compras, también le pedí , que me  lo diera por dia 
