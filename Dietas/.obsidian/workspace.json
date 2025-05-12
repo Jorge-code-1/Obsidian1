@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "c24d150fb7f07e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4eae20bdb4e46fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af93e1aef82260b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Los errores más comunes al seguir una dieta y cómo evitarlos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Los errores más comunes al seguir una dieta y cómo evitarlos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7c8017188c561ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d5318ecb5f82909",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "516c58e9c3fc7cd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7f809e4e9e125f2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "aba3d25949abb0e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c505e72f2d2b7687",
+    "type": "split",
+    "children": [
+      {
+        "id": "347ab44a879097a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2231f1b43a90559c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Como se adoptan hábitos saludables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Como se adoptan hábitos saludables"
+            }
+          },
+          {
+            "id": "15ddfd21cbed52cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Como se adoptan hábitos saludables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Como se adoptan hábitos saludables"
+            }
+          },
+          {
+            "id": "56dcf27f5895eed9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dc2166cb38128188",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Como se adoptan hábitos saludables.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Como se adoptan hábitos saludables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4af93e1aef82260b",
+  "lastOpenFiles": [
+    "Los errores más comunes al seguir una dieta y cómo evitarlos.md",
+    "Investigaciones de dietas/Como se adoptan hábitos saludables.md",
+    "Investigaciones de dietas/En que consiste la dieta paleo.md",
+    "Investigaciones de dietas/Mejor libro sobre dieta keto.md",
+    "Investigaciones de dietas/Cual es la población mas longeva.md",
+    "Investigaciones de dietas/Consejos para bajar de peso de forma saludable.md",
+    "Investigaciones de dietas/Dieta antinflamatoria semanal con menú completo.md",
+    "Investigaciones de dietas/Plan saludable para perder peso progresivo.md",
+    "Investigaciones de dietas/Como implementar la dieta mediterránea.md",
+    "Investigaciones de dietas/Alimentos esenciales para la dieta  mediterránea.md",
+    "Investigaciones de dietas/Menú mediterráneo 14 días sin pollo ni lácteos.md",
+    "Investigaciones de dietas/App dieta mediterránea y sugerencias.md",
+    "Investigaciones de dietas/Paginas similares a diet doctor para la dieta mediterránea.md",
+    "Investigaciones de dietas/La dieta mediterránea ayuda a bajar de peso.md",
+    "Investigaciones de dietas/Libro dieta mediterránea juventud eterna.md",
+    "Investigaciones de dietas/Comparativa entre dieta keto y la mediterránea.md",
+    "Investigaciones de dietas"
+  ]
+}

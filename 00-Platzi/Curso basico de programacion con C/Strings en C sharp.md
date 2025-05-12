@@ -1,0 +1,1 @@
+- Se explica todo en el video y el ejercicio resuelto

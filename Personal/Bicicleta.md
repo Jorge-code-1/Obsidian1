@@ -1,0 +1,6 @@
+- La lleve a reparar el  dia 6/5/25
+	- la deje en la bicicletería de Gastón, la van a tener para la próxima semana  
+	- Tengo que llevar el soporte del inflador para que lo coloquen 
+	- El arreglo sale aproximadamente  $15000
+- Luego de que la repare tengo que empezar a andar 
+- dentro del plan de ejercicios de cormillot debe estar andar en bici

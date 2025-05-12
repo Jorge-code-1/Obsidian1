@@ -1,0 +1,1 @@
+- simplemente la instalación siguiendo los pasos del video 

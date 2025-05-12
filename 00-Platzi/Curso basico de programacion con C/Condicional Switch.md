@@ -1,0 +1,1 @@
+- se ve todo en el video y el ejercicio 
